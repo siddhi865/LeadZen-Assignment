@@ -1,0 +1,32 @@
+.card-container{
+    margin: 1%;
+    padding: 1%;
+}
+.card {
+    background-color: #ffffff;  
+    height: 105px;
+    width: 1000px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-radius: 10px;
+    
+    
+  }
+
+.table{
+    width: 100%;
+    margin: auto;
+    font-size: medium;
+    
+    
+}
+.button{
+    
+    border: 1px solid #282c34;
+    border-radius: 5px;
+}
+.button :link{
+    text-decoration: none;
+    background: none;
+    
+}
